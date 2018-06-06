@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+Effectiveness of Marketing Techniques In-Store to increase Sales
 
-You can use the [editor on GitHub](https://github.com/chhayabhatia-HU/my-final-paper/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Abstract
+In the world of marketing, there are many levers that marketers can use that communicate with the consumers. The consumers may get a chance to interact with the brand through different mediums like TV, radio, social, online or instore. Within each of these mediums, there are several options from which marketers' plan to optimize their budget effectively. This paper aims to understand the effectiveness of the marketing done instore where the purchase decisions are made by the consumer. While most of the levers in marketing are run by the marketing team, in-store marketing has some levers that are run by the sales team. Hence the effectiveness of in-store marketing is also dependent on the dynamics cross of functional teams
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+## Introduction
+In-store marketing is usually the most important touch point for most brands. This is the point of sale and hence there are a couple of factors that affect the consumer's decision, one can be the loyalty of the consumers whereas the other can be the environment in the store. Consumer loyalty is built over a period of time and may vary at different points in time. In some cases, the consumer may be a loyalist or prefer a particular brand and would not purchase any other brand. In other cases, the consumer may prefer to try different products and would like to experiment within the category. The consumer might also get influenced by the environment in the store. Factors like discount offers or a communication on the packaging or on the shelf play an important role in the decision making of the consumer in-store.
 
 [Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chhayabhatia-HU/my-final-paper/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
