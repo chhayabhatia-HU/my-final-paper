@@ -1,4 +1,4 @@
-Effectiveness of Marketing Techniques In-Store to increase Sales
+# Effectiveness of Marketing Techniques In-Store to increase Sales
 
 # Abstract
 In the world of marketing, there are many levers that marketers can use that communicate with the consumers. The consumers may get a chance to interact with the brand through different mediums like TV, radio, social, online or instore. Within each of these mediums, there are several options from which marketers' plan to optimize their budget effectively. This paper aims to understand the effectiveness of the marketing done instore where the purchase decisions are made by the consumer. While most of the levers in marketing are run by the marketing team, in-store marketing has some levers that are run by the sales team. Hence the effectiveness of in-store marketing is also dependent on the dynamics cross of functional teams
