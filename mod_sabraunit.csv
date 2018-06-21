@@ -1,0 +1,231 @@
+Time,Dollar Value,Product Demo,Digital Coupon,Shelf talk Banner,Price offs,BOGOs,Dollar Sales
+ 01-05-14,1944585.193,no,no,no,yes,no,$1.82Mn < Sales < $2.2Mn
+ 01-12-14,1535160.438,no,yes,no,yes,no,Sales < $1.82Mn
+ 01-19-14,1552581.199,no,no,no,yes,no,Sales < $1.82Mn
+ 01-26-14,1708767.335,no,no,no,yes,yes,Sales < $1.82Mn
+ 02-02-14,3024175.041,yes,no,no,no,no,Sales > $2.20Mn
+ 02-09-14,2000889.228,no,no,no,no,no,$1.82Mn < Sales < $2.2Mn
+ 02-16-14,1735274.604,no,no,no,no,no,Sales < $1.82Mn
+ 02-23-14,1693021.701,no,no,yes,no,no,Sales < $1.82Mn
+ 03-02-14,1858407.122,no,no,yes,no,no,$1.82Mn < Sales < $2.2Mn
+ 03-09-14,1826649.059,no,no,yes,no,no,$1.82Mn < Sales < $2.2Mn
+ 03-16-14,1749628.919,no,no,yes,no,no,Sales < $1.82Mn
+ 03-23-14,1760816.849,no,no,no,no,no,Sales < $1.82Mn
+ 03-30-14,1726851.652,no,no,no,no,no,Sales < $1.82Mn
+ 04-06-14,1855456.518,no,no,no,no,no,$1.82Mn < Sales < $2.2Mn
+ 04-13-14,2582887.933,no,no,no,no,yes,Sales > $2.20Mn
+ 04-20-14,2349852.888,no,no,no,no,no,Sales > $2.20Mn
+ 04-27-14,1863211.801,no,no,no,no,no,$1.82Mn < Sales < $2.2Mn
+ 05-04-14,2051172.343,no,no,no,no,no,$1.82Mn < Sales < $2.2Mn
+ 05-11-14,1959417.623,no,no,no,yes,no,$1.82Mn < Sales < $2.2Mn
+ 05-18-14,1832804.453,no,no,no,yes,no,$1.82Mn < Sales < $2.2Mn
+ 05-25-14,2684247.021,no,yes,no,yes,no,Sales > $2.20Mn
+ 06-01-14,1845482.969,no,no,no,yes,no,$1.82Mn < Sales < $2.2Mn
+ 06-08-14,1888588.581,no,no,no,yes,no,$1.82Mn < Sales < $2.2Mn
+ 06-15-14,1789274.062,no,no,no,yes,no,Sales < $1.82Mn
+ 06-22-14,1701148.346,no,no,no,yes,no,Sales < $1.82Mn
+ 06-29-14,2184003.932,no,no,no,yes,no,$1.82Mn < Sales < $2.2Mn
+ 07-06-14,2280453.605,no,no,no,no,no,Sales > $2.20Mn
+ 07-13-14,1907920.768,no,no,no,no,yes,$1.82Mn < Sales < $2.2Mn
+ 07-20-14,1845662.494,no,no,no,no,no,$1.82Mn < Sales < $2.2Mn
+ 07-27-14,2064710.744,no,no,no,no,no,$1.82Mn < Sales < $2.2Mn
+ 08-03-14,1782725.309,no,no,no,yes,no,Sales < $1.82Mn
+ 08-10-14,1725938.902,no,no,no,yes,no,Sales < $1.82Mn
+ 08-17-14,1890697.071,no,no,no,yes,no,$1.82Mn < Sales < $2.2Mn
+ 08-24-14,2155316.094,no,no,no,yes,no,$1.82Mn < Sales < $2.2Mn
+ 08-31-14,2115319.574,no,no,no,no,no,$1.82Mn < Sales < $2.2Mn
+ 09-07-14,1944282.954,no,no,no,no,no,$1.82Mn < Sales < $2.2Mn
+ 09-14-14,1874158.008,yes,no,no,no,no,$1.82Mn < Sales < $2.2Mn
+ 09-21-14,1860354.637,no,no,no,no,no,$1.82Mn < Sales < $2.2Mn
+ 09-28-14,1926370.642,no,no,no,no,no,$1.82Mn < Sales < $2.2Mn
+ 10-05-14,1982078.044,no,no,no,no,no,$1.82Mn < Sales < $2.2Mn
+ 10-12-14,1943093.693,no,no,no,no,yes,$1.82Mn < Sales < $2.2Mn
+ 10-19-14,1810838.73,no,no,no,no,no,Sales < $1.82Mn
+ 10-26-14,1748788.351,no,no,no,no,no,Sales < $1.82Mn
+ 11-02-14,1708285.491,no,no,no,yes,no,Sales < $1.82Mn
+ 11-09-14,1720080.118,no,yes,no,yes,no,Sales < $1.82Mn
+ 11-16-14,1697143.238,no,no,no,yes,no,Sales < $1.82Mn
+ 11-23-14,2394472.73,no,no,no,yes,no,Sales > $2.20Mn
+ 11-30-14,1709717.122,no,no,no,yes,no,Sales < $1.82Mn
+ 12-07-14,1596706.755,no,no,yes,yes,no,Sales < $1.82Mn
+ 12-14-14,1930979.162,no,yes,yes,yes,no,$1.82Mn < Sales < $2.2Mn
+ 12-21-14,2492226.324,no,no,yes,yes,yes,Sales > $2.20Mn
+ 12-28-14,1881523.075,no,no,yes,yes,no,$1.82Mn < Sales < $2.2Mn
+ 01-04-15,2255490.42,no,no,no,yes,no,Sales > $2.20Mn
+ 01-11-15,1768371.93,no,yes,no,yes,no,Sales < $1.82Mn
+ 01-18-15,1817355.569,no,no,no,yes,no,Sales < $1.82Mn
+ 01-25-15,2044231.784,no,no,no,no,yes,$1.82Mn < Sales < $2.2Mn
+ 02-01-15,3317740.234,no,no,no,no,no,Sales > $2.20Mn
+ 02-08-15,2029297.584,yes,no,no,no,no,$1.82Mn < Sales < $2.2Mn
+ 02-15-15,1858944.578,no,no,no,no,no,$1.82Mn < Sales < $2.2Mn
+ 02-22-15,1880979.869,no,no,yes,no,no,$1.82Mn < Sales < $2.2Mn
+ 03-01-15,2127366.267,no,no,yes,no,no,$1.82Mn < Sales < $2.2Mn
+ 03-08-15,1914201.254,no,no,yes,no,no,$1.82Mn < Sales < $2.2Mn
+ 03-15-15,1893560.99,no,no,yes,no,no,$1.82Mn < Sales < $2.2Mn
+ 03-22-15,1809715.023,no,no,no,no,no,Sales < $1.82Mn
+ 03-29-15,2299025.137,no,no,no,no,no,Sales > $2.20Mn
+ 04-05-15,2449908.317,no,no,no,no,no,Sales > $2.20Mn
+ 04-12-15,1469289.314,no,no,no,no,yes,Sales < $1.82Mn
+ 04-19-15,1411921.757,no,no,no,no,no,Sales < $1.82Mn
+ 04-26-15,1808263.24,no,no,no,no,no,Sales < $1.82Mn
+ 05-03-15,1678309.249,no,no,no,yes,no,Sales < $1.82Mn
+ 05-10-15,1851963.558,no,no,no,yes,no,$1.82Mn < Sales < $2.2Mn
+ 05-17-15,1769762.513,no,no,no,yes,no,Sales < $1.82Mn
+ 05-24-15,2914365.638,no,yes,no,yes,no,Sales > $2.20Mn
+ 05-31-15,1890022.403,no,no,no,yes,no,$1.82Mn < Sales < $2.2Mn
+ 06-07-15,1840818.59,no,no,no,yes,no,$1.82Mn < Sales < $2.2Mn
+ 06-14-15,1806567.534,no,no,no,yes,no,Sales < $1.82Mn
+ 06-21-15,1819509.861,no,no,no,yes,no,Sales < $1.82Mn
+ 06-28-15,2015364.175,no,no,no,no,no,$1.82Mn < Sales < $2.2Mn
+ 07-05-15,3279139.427,no,no,no,no,no,Sales > $2.20Mn
+ 07-12-15,1976709.731,no,no,no,no,yes,$1.82Mn < Sales < $2.2Mn
+ 07-19-15,1938236.2,no,no,no,no,no,$1.82Mn < Sales < $2.2Mn
+ 07-26-15,2034685.968,no,no,no,yes,no,$1.82Mn < Sales < $2.2Mn
+ 08-02-15,2054106.948,no,no,no,yes,no,$1.82Mn < Sales < $2.2Mn
+ 08-09-15,2020973.282,no,no,no,yes,no,$1.82Mn < Sales < $2.2Mn
+ 08-16-15,2006276.117,no,no,no,yes,no,$1.82Mn < Sales < $2.2Mn
+ 08-23-15,1929702.518,no,no,no,no,no,$1.82Mn < Sales < $2.2Mn
+ 08-30-15,2079516.102,no,no,no,no,no,$1.82Mn < Sales < $2.2Mn
+ 09-06-15,2641021.811,yes,no,no,no,no,Sales > $2.20Mn
+ 09-13-15,2256347.606,no,no,no,no,no,Sales > $2.20Mn
+ 09-20-15,1896998.675,no,no,no,no,no,$1.82Mn < Sales < $2.2Mn
+ 09-27-15,1710457.411,no,no,no,no,no,Sales < $1.82Mn
+ 10-04-15,1855919.535,no,no,no,no,no,$1.82Mn < Sales < $2.2Mn
+ 10-11-15,1855696.64,no,no,no,no,yes,$1.82Mn < Sales < $2.2Mn
+ 10-18-15,1684657.321,no,no,no,no,no,Sales < $1.82Mn
+ 10-25-15,1717387.259,no,no,no,yes,no,Sales < $1.82Mn
+ 11-01-15,1884102.946,no,no,no,yes,no,$1.82Mn < Sales < $2.2Mn
+ 11-08-15,1797323.747,no,yes,no,yes,no,Sales < $1.82Mn
+ 11-15-15,1843020.263,no,no,no,yes,no,$1.82Mn < Sales < $2.2Mn
+ 11-22-15,2308243.859,no,no,no,yes,no,Sales > $2.20Mn
+ 11-29-15,1616239.605,no,no,no,yes,no,Sales < $1.82Mn
+ 12-06-15,1587443.655,no,no,yes,yes,no,Sales < $1.82Mn
+ 12-13-15,1705533.793,no,yes,yes,yes,no,Sales < $1.82Mn
+ 12-20-15,2589456.708,no,no,yes,no,yes,Sales > $2.20Mn
+ 12-27-15,2032623.219,no,no,yes,no,no,$1.82Mn < Sales < $2.2Mn
+ 01-03-16,2284605.347,no,no,no,yes,no,Sales > $2.20Mn
+ 01-10-16,2036609.148,no,yes,no,yes,no,$1.82Mn < Sales < $2.2Mn
+ 01-17-16,1971962.786,no,no,no,yes,no,$1.82Mn < Sales < $2.2Mn
+ 01-24-16,2429145.009,no,no,no,yes,yes,Sales > $2.20Mn
+ 01-31-16,1958804.182,no,no,no,no,no,$1.82Mn < Sales < $2.2Mn
+ 02-07-16,3184953.525,yes,no,no,no,no,Sales > $2.20Mn
+ 02-14-16,1745529.439,no,no,no,no,no,Sales < $1.82Mn
+ 02-21-16,1773668.371,no,no,yes,no,no,Sales < $1.82Mn
+ 02-28-16,1788815.756,no,no,yes,no,no,Sales < $1.82Mn
+ 03-06-16,1948331.388,no,no,yes,no,no,$1.82Mn < Sales < $2.2Mn
+ 03-13-16,2118283.946,no,no,yes,no,no,$1.82Mn < Sales < $2.2Mn
+ 03-20-16,2373320.551,no,no,no,no,no,Sales > $2.20Mn
+ 03-27-16,2506518.348,no,no,no,no,no,Sales > $2.20Mn
+ 04-03-16,2239104.493,no,no,no,no,no,Sales > $2.20Mn
+ 04-10-16,1932962.748,no,no,no,no,yes,$1.82Mn < Sales < $2.2Mn
+ 04-17-16,1981816.474,no,no,no,no,no,$1.82Mn < Sales < $2.2Mn
+ 04-24-16,1859743.778,no,no,no,no,no,$1.82Mn < Sales < $2.2Mn
+ 05-01-16,2032883.789,no,no,no,no,no,$1.82Mn < Sales < $2.2Mn
+ 05-08-16,2111153.18,no,no,no,yes,no,$1.82Mn < Sales < $2.2Mn
+ 05-15-16,2173967.825,no,no,no,yes,no,$1.82Mn < Sales < $2.2Mn
+ 05-22-16,2202325.102,no,yes,no,yes,no,$1.82Mn < Sales < $2.2Mn
+ 05-29-16,3069028.184,no,no,no,yes,no,Sales > $2.20Mn
+ 06-05-16,2385744.16,no,no,no,yes,no,Sales > $2.20Mn
+ 06-12-16,2089038.871,no,no,no,yes,no,$1.82Mn < Sales < $2.2Mn
+ 06-19-16,2191162.774,no,no,no,yes,no,$1.82Mn < Sales < $2.2Mn
+ 06-26-16,2210739.13,no,no,no,yes,no,Sales > $2.20Mn
+ 07-03-16,3235684.598,no,no,no,no,no,Sales > $2.20Mn
+ 07-10-16,2348274.667,no,no,no,no,yes,Sales > $2.20Mn
+ 07-17-16,2134743.519,no,no,no,no,no,$1.82Mn < Sales < $2.2Mn
+ 07-24-16,2237769.522,no,no,no,no,no,Sales > $2.20Mn
+ 07-31-16,1900268.624,no,no,no,yes,no,$1.82Mn < Sales < $2.2Mn
+ 08-07-16,2209550.512,no,no,no,yes,no,Sales > $2.20Mn
+ 08-14-16,2370937.017,no,no,no,yes,no,Sales > $2.20Mn
+ 08-21-16,2316770.743,no,no,no,yes,no,Sales > $2.20Mn
+ 08-28-16,2655257.099,no,no,no,no,no,Sales > $2.20Mn
+ 09-04-16,3487172.864,yes,no,no,no,no,Sales > $2.20Mn
+ 09-11-16,2589730.993,no,no,no,no,no,Sales > $2.20Mn
+ 09-18-16,2169238.299,no,no,no,no,no,$1.82Mn < Sales < $2.2Mn
+ 09-25-16,1914270.287,no,no,no,no,no,$1.82Mn < Sales < $2.2Mn
+ 10-02-16,2059073.125,no,no,no,no,no,$1.82Mn < Sales < $2.2Mn
+ 10-09-16,1923818.577,no,no,no,no,yes,$1.82Mn < Sales < $2.2Mn
+ 10-16-16,2212044.156,no,no,no,no,no,Sales > $2.20Mn
+ 10-23-16,2018327.173,no,no,no,no,no,$1.82Mn < Sales < $2.2Mn
+ 10-30-16,1999240.665,no,no,no,yes,no,$1.82Mn < Sales < $2.2Mn
+ 11-06-16,2125373.135,no,yes,no,yes,no,$1.82Mn < Sales < $2.2Mn
+ 11-13-16,2014756.153,no,no,no,yes,no,$1.82Mn < Sales < $2.2Mn
+ 11-20-16,1908510.982,no,no,no,yes,no,$1.82Mn < Sales < $2.2Mn
+ 11-27-16,415700.8809,no,no,no,yes,no,Sales < $1.82Mn
+ 12-04-16,646159.9597,no,no,yes,yes,no,Sales < $1.82Mn
+ 12-11-16,852647.6339,no,yes,yes,yes,no,Sales < $1.82Mn
+ 12-18-16,981050.0724,no,no,yes,yes,yes,Sales < $1.82Mn
+ 12-25-16,1164397.623,no,no,yes,no,no,Sales < $1.82Mn
+ 01-01-17,1206245.022,no,no,no,yes,no,Sales < $1.82Mn
+ 01-08-17,1343395.162,no,yes,no,yes,no,Sales < $1.82Mn
+ 01-15-17,1464488.738,no,no,no,yes,yes,Sales < $1.82Mn
+ 01-22-17,1539524.046,no,no,no,yes,no,Sales < $1.82Mn
+ 01-29-17,1610937.702,no,no,no,no,no,Sales < $1.82Mn
+ 02-05-17,2151325.5,no,no,no,no,no,$1.82Mn < Sales < $2.2Mn
+ 02-12-17,1727263.394,yes,no,no,no,no,Sales < $1.82Mn
+ 02-19-17,1695442.439,no,no,yes,no,no,Sales < $1.82Mn
+ 02-26-17,1837607.211,no,no,yes,no,no,$1.82Mn < Sales < $2.2Mn
+ 03-05-17,1921740.766,no,no,yes,no,no,$1.82Mn < Sales < $2.2Mn
+ 03-12-17,1864377.917,no,no,yes,no,no,$1.82Mn < Sales < $2.2Mn
+ 03-19-17,1903845.432,no,no,no,no,no,$1.82Mn < Sales < $2.2Mn
+ 03-26-17,1827349.423,no,no,no,no,no,$1.82Mn < Sales < $2.2Mn
+ 04-02-17,1975722.916,no,no,no,no,yes,$1.82Mn < Sales < $2.2Mn
+ 04-09-17,2191491.133,no,no,no,no,no,$1.82Mn < Sales < $2.2Mn
+ 04-16-17,2455258.434,no,no,no,no,no,Sales > $2.20Mn
+ 04-23-17,1875223.954,no,no,no,no,no,$1.82Mn < Sales < $2.2Mn
+ 04-30-17,1984270.305,no,no,no,no,no,$1.82Mn < Sales < $2.2Mn
+ 05-07-17,2099655.328,no,no,no,yes,no,$1.82Mn < Sales < $2.2Mn
+ 05-14-17,1976785.963,no,no,no,yes,no,$1.82Mn < Sales < $2.2Mn
+ 05-21-17,2153755.29,no,yes,no,yes,no,$1.82Mn < Sales < $2.2Mn
+ 05-28-17,2854787.935,no,no,no,yes,no,Sales > $2.20Mn
+ 06-04-17,2458130.06,no,no,no,yes,no,Sales > $2.20Mn
+ 06-11-17,2195973.178,no,no,no,yes,no,$1.82Mn < Sales < $2.2Mn
+ 06-18-17,2115913.153,no,no,no,yes,no,$1.82Mn < Sales < $2.2Mn
+ 06-25-17,2131198.649,no,no,no,yes,no,$1.82Mn < Sales < $2.2Mn
+ 07-02-17,3038888.02,no,no,no,no,yes,Sales > $2.20Mn
+ 07-09-17,2565184.907,no,no,no,no,no,Sales > $2.20Mn
+ 07-16-17,2182903.898,no,no,no,no,no,$1.82Mn < Sales < $2.2Mn
+ 07-23-17,2084004.509,no,no,no,no,no,$1.82Mn < Sales < $2.2Mn
+ 07-30-17,1956387.129,no,no,no,yes,no,$1.82Mn < Sales < $2.2Mn
+ 08-06-17,2138381.149,no,no,no,yes,no,$1.82Mn < Sales < $2.2Mn
+ 08-13-17,2027053.065,no,no,no,yes,no,$1.82Mn < Sales < $2.2Mn
+ 08-20-17,2163364.77,no,no,no,yes,no,$1.82Mn < Sales < $2.2Mn
+ 08-27-17,2269547.571,no,no,no,no,no,Sales > $2.20Mn
+ 09-03-17,3060404.734,no,no,no,no,no,Sales > $2.20Mn
+ 09-10-17,2483911.658,yes,no,no,no,no,Sales > $2.20Mn
+ 09-17-17,2372464.13,no,no,no,no,no,Sales > $2.20Mn
+ 09-24-17,1929446.049,no,no,no,no,no,$1.82Mn < Sales < $2.2Mn
+ 10-01-17,1936117.975,no,no,no,no,yes,$1.82Mn < Sales < $2.2Mn
+ 10-08-17,1908010.878,no,no,no,no,no,$1.82Mn < Sales < $2.2Mn
+ 10-15-17,1984912.945,no,no,no,no,no,$1.82Mn < Sales < $2.2Mn
+ 10-22-17,1808582.982,no,no,no,no,no,Sales < $1.82Mn
+ 10-29-17,2230891.788,no,no,no,yes,no,Sales > $2.20Mn
+ 11-05-17,1845581.514,no,yes,no,yes,no,$1.82Mn < Sales < $2.2Mn
+ 11-12-17,1775350.111,no,no,no,yes,no,Sales < $1.82Mn
+ 11-19-17,2297729.461,no,no,no,yes,no,Sales > $2.20Mn
+ 11-26-17,1820347.699,no,no,no,yes,no,Sales < $1.82Mn
+ 12-03-17,1745918.159,no,no,yes,yes,no,Sales < $1.82Mn
+ 12-10-17,1693434.983,no,yes,yes,yes,yes,Sales < $1.82Mn
+ 12-17-17,1718228.538,no,no,yes,yes,no,Sales < $1.82Mn
+ 12-24-17,2286717.274,no,no,yes,no,no,Sales > $2.20Mn
+ 12-31-17,1810829.848,no,no,no,no,no,Sales < $1.82Mn
+ 01-07-18,2192996.265,no,no,no,yes,no,$1.82Mn < Sales < $2.2Mn
+ 01-14-18,2118785.018,no,yes,no,yes,no,$1.82Mn < Sales < $2.2Mn
+ 01-21-18,2250822.9,no,no,no,yes,no,Sales > $2.20Mn
+ 01-28-18,2179126.174,no,no,yes,yes,no,$1.82Mn < Sales < $2.2Mn
+ 02-04-18,3224793.595,no,no,yes,no,yes,Sales > $2.20Mn
+ 02-11-18,2244304.663,yes,no,yes,no,no,Sales > $2.20Mn
+ 02-18-18,1844357.224,no,no,yes,no,no,$1.82Mn < Sales < $2.2Mn
+ 02-25-18,1984609.374,no,no,no,no,no,$1.82Mn < Sales < $2.2Mn
+ 03-04-18,2231722.767,no,no,no,no,no,Sales > $2.20Mn
+ 03-11-18,2104127.052,no,no,no,no,no,$1.82Mn < Sales < $2.2Mn
+ 03-18-18,2150924.373,no,no,no,no,no,$1.82Mn < Sales < $2.2Mn
+ 03-25-18,2483062.28,no,no,no,no,no,Sales > $2.20Mn
+ 04-01-18,2691762.305,no,no,no,no,no,Sales > $2.20Mn
+ 04-08-18,2082010.805,no,no,no,no,no,$1.82Mn < Sales < $2.2Mn
+ 04-15-18,2097117.685,no,no,no,no,no,$1.82Mn < Sales < $2.2Mn
+ 04-22-18,2110751.775,no,no,no,no,yes,$1.82Mn < Sales < $2.2Mn
+ 04-29-18,2107983.928,no,no,no,no,no,$1.82Mn < Sales < $2.2Mn
+ 05-06-18,2320009.987,no,no,no,no,no,Sales > $2.20Mn
+ 05-13-18,2888432.006,no,no,no,yes,no,Sales > $2.20Mn
+ 05-20-18,2369666.127,no,no,no,yes,no,Sales > $2.20Mn
+ 05-27-18,3123209.902,no,yes,no,yes,no,Sales > $2.20Mn
